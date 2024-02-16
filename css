@@ -1,0 +1,18 @@
+h1{
+    font-size: 100px;
+    color: rgb(230, 12, 12);
+    font-family: sans-serif;
+    text-align: center;
+
+}
+hr{
+    width:50%;
+    height: 10px;
+    background: yellow;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    width: 50%;
+    margin: auto;
+}
